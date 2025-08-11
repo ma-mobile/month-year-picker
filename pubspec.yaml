@@ -4,8 +4,7 @@ version: 0.5.0+1
 homepage: https://github.com/zulfahmi93/month-year-picker
 
 environment:
-  sdk: ^3.8.0
-  flutter: '>=3.32.0'
+  sdk: ^3.5.1
 
 dependencies:
   flutter:
